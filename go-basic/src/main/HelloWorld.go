@@ -1,7 +1,7 @@
-package go_basic
+package main
 
 import "fmt"
 
-func mian() {
+func main() {
 	fmt.Println("Hello World")
 }
